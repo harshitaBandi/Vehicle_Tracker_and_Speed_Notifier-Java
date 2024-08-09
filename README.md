@@ -1,4 +1,4 @@
-Vehicle Tracker and Speed Notifier - Java Project
+# Vehicle Tracker and Speed Notifier - Java Project
 Overview
 This project is a Java-based application designed to track vehicles and notify users about their speed. It uses various technologies and libraries to provide a robust solution for real-time vehicle monitoring and speed alerting.
 
